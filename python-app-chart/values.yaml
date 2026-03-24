@@ -1,4 +1,4 @@
-replicaCount: 1
+replicaCount: 2
 image:
   repository: ashokshingade24/python-log-generator
   tag: 1f9890b
