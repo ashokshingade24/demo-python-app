@@ -1,5 +1,5 @@
 replicaCount: 1
 image:
   repository: ashokshingade24/python-log-generator
-  tag: latest
+  tag: 1f9890b
   pullPolicy: IfNotPresent
