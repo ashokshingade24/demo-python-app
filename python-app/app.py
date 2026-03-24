@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("LokiDemoApp")
 
-messages = ["User logged in", "Order processed", "Payment failed", "Cache refresh started"]
+messages = ["User logged in", "Order processed successfully", "Payment failed", "Cache refresh started"]
 
 if __name__ == "__main__":
     while True:
